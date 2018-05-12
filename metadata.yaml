@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41689'
     url: http://www.gutenberg.org/2009/agents/41689
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42438#The-Rise-of-Rail-Power-in-War-and-Conquest-1833-1914
 gutenberg_issued: '2013-03-30'
 gutenberg_type: Text
 identifiers:
